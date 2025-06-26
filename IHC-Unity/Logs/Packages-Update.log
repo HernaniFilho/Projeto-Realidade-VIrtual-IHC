@@ -66,3 +66,13 @@ The following packages were added:
   com.unity.render-pipelines.universal@17.0.4
   com.unity.render-pipelines.universal-config@17.0.3
   com.unity.rendering.light-transport@1.0.1
+
+=== Thu Jun 26 16:41:33 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.core from version 17.0.4 to 17.1.0
+  com.unity.render-pipelines.universal from version 17.0.4 to 17.1.0
+  com.unity.visualscripting from version 1.9.6 to 1.9.7
