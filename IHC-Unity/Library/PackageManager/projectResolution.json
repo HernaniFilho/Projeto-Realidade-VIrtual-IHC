@@ -9,6 +9,16 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.1.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "C:\\Users\\wpv\\Documents\\GitHub\\Projeto-Realidade-VIrtual-IHC\\IHC-Unity\\Library\\PackageCache\\com.unity.2d.sprite@5eb30061d420",
+      "fingerprint": "5eb30061d42006925d91d40a6a8fca10bd64bbee",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.cinemachine@3.1.3": {
       "name": "com.unity.cinemachine",
       "displayName": "Cinemachine",
